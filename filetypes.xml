@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="dockerfile" type="Native" />
+      <mapping pattern="AsoJsonHelper" type="PHP" />
+      <mapping pattern="sla" type="PLAIN_TEXT" />
+      <mapping pattern="asd" type="PLAIN_TEXT" />
+      <mapping pattern="dupChecking" type="PLAIN_TEXT" />
+      <mapping pattern="cleanDB" type="PLAIN_TEXT" />
+      <mapping pattern="final-checking" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
